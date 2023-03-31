@@ -1,4 +1,9 @@
 {
+ "scripts": {
+   "dev": "node index.js",
+   "build": "npm i"
+ },
+{
   "name": "weather-journal-app",
   "version": "1.0.0",
   "description": "",
